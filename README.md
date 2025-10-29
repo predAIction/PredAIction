@@ -50,18 +50,6 @@ To establish TBIT as a leading hub for AI-driven innovation, collaboration, and 
 
 ---
 
-## 💡 Club Projects
-
-| Project | Description | Tech Stack |
-|----------|--------------|-------------|
-| **ParkIn** | AI-enabled Smart Parking System using ANPR + IoT + Flutter | Flask, Firebase, EasyOCR, ESP32 |
-| **SniffTern AI** | Detects fake internships using NLP and ML | Python, scikit-learn, Flask |
-| **VisionSuite** | Computer Vision demo series for beginners | OpenCV, TensorFlow |
-| **MLOps Starter** | Templates for model deployment, CI/CD | Docker, FastAPI, GitHub Actions |
-
-> 🧩 More open-source projects coming soon!
-
----
 
 ## 🧭 Learning Tracks
 
