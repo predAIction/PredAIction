@@ -44,7 +44,7 @@ To establish TBIT as a leading hub for AI-driven innovation, collaboration, and 
 ## 🌱 How to Join
 
 1. ⭐ Star this repository  
-2. Fill the **[Membership Form](#)** (link your Google Form here)  
+2. Join Whatsapp Community **[PredAIction](#https://chat.whatsapp.com/FSPTKCzn5g3BScg3LT55qm?mode=ems_copy_t)**   
 3. Join our **Discord/Slack community** for onboarding  
 4. Start contributing to our projects or participate in our next event!
 
@@ -118,7 +118,7 @@ Contact Us:
 
 📸 Instagram: coming soon
 
-💼 LinkedIn: [@PredAIction] 
+💼 LinkedIn: [PredAIction] 
 
 📜 License
 
