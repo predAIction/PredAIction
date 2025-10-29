@@ -1,4 +1,4 @@
-# 🧠 PredAIction — Official AIML Club of TBIT
+#  PredAIction — The Official AIML Club of TBIT
 
 **PredAIction** is the official Artificial Intelligence & Machine Learning Club of **Techno Batan Institute of Technology (TBIT)**.  
 We’re a community of innovators, learners, and builders passionate about AI, ML, and emerging technologies — dedicated to turning ideas into real-world impact.  
